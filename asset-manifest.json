@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gdj-dev/static/css/main.d1dcc80a.chunk.css",
-    "main.js": "/gdj-dev/static/js/main.131c35a3.chunk.js",
-    "main.js.map": "/gdj-dev/static/js/main.131c35a3.chunk.js.map",
-    "runtime~main.js": "/gdj-dev/static/js/runtime~main.f1c04455.js",
-    "runtime~main.js.map": "/gdj-dev/static/js/runtime~main.f1c04455.js.map",
-    "static/js/2.c5eb226c.chunk.js": "/gdj-dev/static/js/2.c5eb226c.chunk.js",
-    "static/js/2.c5eb226c.chunk.js.map": "/gdj-dev/static/js/2.c5eb226c.chunk.js.map",
-    "index.html": "/gdj-dev/index.html",
-    "precache-manifest.35a60caf6041e9f87418afc650a4ab19.js": "/gdj-dev/precache-manifest.35a60caf6041e9f87418afc650a4ab19.js",
-    "service-worker.js": "/gdj-dev/service-worker.js",
-    "static/css/main.d1dcc80a.chunk.css.map": "/gdj-dev/static/css/main.d1dcc80a.chunk.css.map",
-    "static/media/picture.png": "/gdj-dev/static/media/picture.4e7dac5f.png",
-    "static/media/placeholder.png": "/gdj-dev/static/media/placeholder.f2fad24f.png",
-    "static/media/zari.JPG": "/gdj-dev/static/media/zari.53086b81.JPG"
+    "main.css": "/public/static/css/main.d1dcc80a.chunk.css",
+    "main.js": "/public/static/js/main.90a11343.chunk.js",
+    "main.js.map": "/public/static/js/main.90a11343.chunk.js.map",
+    "runtime~main.js": "/public/static/js/runtime~main.53144477.js",
+    "runtime~main.js.map": "/public/static/js/runtime~main.53144477.js.map",
+    "static/js/2.c5eb226c.chunk.js": "/public/static/js/2.c5eb226c.chunk.js",
+    "static/js/2.c5eb226c.chunk.js.map": "/public/static/js/2.c5eb226c.chunk.js.map",
+    "index.html": "/public/index.html",
+    "precache-manifest.14163bde77270cd3d1faa594ed55e2cc.js": "/public/precache-manifest.14163bde77270cd3d1faa594ed55e2cc.js",
+    "service-worker.js": "/public/service-worker.js",
+    "static/css/main.d1dcc80a.chunk.css.map": "/public/static/css/main.d1dcc80a.chunk.css.map",
+    "static/media/picture.png": "/public/static/media/picture.4e7dac5f.png",
+    "static/media/placeholder.png": "/public/static/media/placeholder.f2fad24f.png",
+    "static/media/zari.JPG": "/public/static/media/zari.53086b81.JPG"
   }
 }
