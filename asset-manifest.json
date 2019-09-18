@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/gdj-dev1.github.io/static/css/main.2cce8147.chunk.css",
-    "main.js": "/gdj-dev1.github.io/static/js/main.31e92139.chunk.js",
-    "main.js.map": "/gdj-dev1.github.io/static/js/main.31e92139.chunk.js.map",
-    "runtime~main.js": "/gdj-dev1.github.io/static/js/runtime~main.0da3301b.js",
-    "runtime~main.js.map": "/gdj-dev1.github.io/static/js/runtime~main.0da3301b.js.map",
-    "static/js/2.c58513d0.chunk.js": "/gdj-dev1.github.io/static/js/2.c58513d0.chunk.js",
-    "static/js/2.c58513d0.chunk.js.map": "/gdj-dev1.github.io/static/js/2.c58513d0.chunk.js.map",
-    "index.html": "/gdj-dev1.github.io/index.html",
-    "precache-manifest.4f3bb787c306621fada3ea66a69a1b23.js": "/gdj-dev1.github.io/precache-manifest.4f3bb787c306621fada3ea66a69a1b23.js",
-    "service-worker.js": "/gdj-dev1.github.io/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/gdj-dev1.github.io/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/gdj-dev1.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/gdj-dev/static/css/main.d1dcc80a.chunk.css",
+    "main.js": "/gdj-dev/static/js/main.901c9e98.chunk.js",
+    "main.js.map": "/gdj-dev/static/js/main.901c9e98.chunk.js.map",
+    "runtime~main.js": "/gdj-dev/static/js/runtime~main.f1c04455.js",
+    "runtime~main.js.map": "/gdj-dev/static/js/runtime~main.f1c04455.js.map",
+    "static/js/2.c5eb226c.chunk.js": "/gdj-dev/static/js/2.c5eb226c.chunk.js",
+    "static/js/2.c5eb226c.chunk.js.map": "/gdj-dev/static/js/2.c5eb226c.chunk.js.map",
+    "index.html": "/gdj-dev/index.html",
+    "precache-manifest.7e5a0b229e15b38518dfdbd00a0b5a6e.js": "/gdj-dev/precache-manifest.7e5a0b229e15b38518dfdbd00a0b5a6e.js",
+    "service-worker.js": "/gdj-dev/service-worker.js",
+    "static/css/main.d1dcc80a.chunk.css.map": "/gdj-dev/static/css/main.d1dcc80a.chunk.css.map",
+    "static/media/picture.png": "/gdj-dev/static/media/picture.4e7dac5f.png",
+    "static/media/placeholder.png": "/gdj-dev/static/media/placeholder.f2fad24f.png",
+    "static/media/zari.JPG": "/gdj-dev/static/media/zari.53086b81.JPG"
   }
 }
