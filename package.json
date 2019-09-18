@@ -2,7 +2,7 @@
   "name": "gdj-dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gdj-dev.github.io/gdj-dev.github.io",
+  "homepage": "http://gdj-dev.github.io/gdj-dev",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
