@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/public/static/css/main.d1dcc80a.chunk.css",
-    "main.js": "/public/static/js/main.90a11343.chunk.js",
-    "main.js.map": "/public/static/js/main.90a11343.chunk.js.map",
-    "runtime~main.js": "/public/static/js/runtime~main.53144477.js",
-    "runtime~main.js.map": "/public/static/js/runtime~main.53144477.js.map",
-    "static/js/2.c5eb226c.chunk.js": "/public/static/js/2.c5eb226c.chunk.js",
-    "static/js/2.c5eb226c.chunk.js.map": "/public/static/js/2.c5eb226c.chunk.js.map",
-    "index.html": "/public/index.html",
-    "precache-manifest.14163bde77270cd3d1faa594ed55e2cc.js": "/public/precache-manifest.14163bde77270cd3d1faa594ed55e2cc.js",
-    "service-worker.js": "/public/service-worker.js",
-    "static/css/main.d1dcc80a.chunk.css.map": "/public/static/css/main.d1dcc80a.chunk.css.map",
-    "static/media/picture.png": "/public/static/media/picture.4e7dac5f.png",
-    "static/media/placeholder.png": "/public/static/media/placeholder.f2fad24f.png",
-    "static/media/zari.JPG": "/public/static/media/zari.53086b81.JPG"
+    "main.css": "/static/css/main.d1dcc80a.chunk.css",
+    "main.js": "/static/js/main.c3fe7ce2.chunk.js",
+    "main.js.map": "/static/js/main.c3fe7ce2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.5541fc86.js",
+    "runtime~main.js.map": "/static/js/runtime~main.5541fc86.js.map",
+    "static/js/2.c5eb226c.chunk.js": "/static/js/2.c5eb226c.chunk.js",
+    "static/js/2.c5eb226c.chunk.js.map": "/static/js/2.c5eb226c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9985c621a7a5ba4f295610fcfc08ab07.js": "/precache-manifest.9985c621a7a5ba4f295610fcfc08ab07.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d1dcc80a.chunk.css.map": "/static/css/main.d1dcc80a.chunk.css.map",
+    "static/media/picture.png": "/static/media/picture.4e7dac5f.png",
+    "static/media/placeholder.png": "/static/media/placeholder.f2fad24f.png",
+    "static/media/zari.JPG": "/static/media/zari.53086b81.JPG"
   }
 }
